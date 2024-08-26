@@ -1,2 +1,2 @@
-# BIODI-1
-Somos un equipo dedicado a mejorar la calidad de vida de las personas con hemiplejia a través de nuestro innovador "Sistema rehabilitador de extensión y flexión de brazo y mano". Este sistema está diseñado para ayudar a los pacientes a recuperar la movilidad y la fuerza en sus brazos y manos.
+# "Sistema rehabilitador de extensión y flexión de brazo y mano"
+Somos un equipo dedicado a mejorar la calidad de vida de las personas con hemiplejia a través de nuestro innovador "Sistema rehabilitador de extensión y flexión de brazo y mano". Este sistema está diseñado para ayudar a los pacientes a recuperar la movilidad y la fuerza en sus brazos y manos. En esta página web, podrás encontrar más información sobre nuestro proyecto, nuestro equipo y cómo nuestro sistema puede ayudar a las personas con hemiplejia. ¡Gracias por visitarnos y esperamos poder ayudarte en tu camino hacia la recuperación! -> https://sites.google.com/upch.pe/g1-proyecto-biodiseno-1/inicio
